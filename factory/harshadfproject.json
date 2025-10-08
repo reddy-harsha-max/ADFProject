@@ -1,0 +1,9 @@
+{
+	"name": "harshadfproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "77cfb5c4-8000-4663-bd78-c6f1aef16fcf",
+		"tenantId": "de0eb862-fc54-47c7-bf31-8c57fea174f5"
+	}
+}
